@@ -3,7 +3,7 @@ package com.itbulls.learnit.ameermamoon;
 public class Loops {
 
 	public static void main(String[] args) {
-		  System.out.println("Changes in repository"); 
+		  System.out.println("Changes in repository by Developer 2"); 
 		System.out.println("while loop: ");
 		int i = 0;
 		while(i<5) {
