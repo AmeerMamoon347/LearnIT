@@ -3,7 +3,11 @@ package com.itbulls.learnit.ameermamoon;
 public class Loops {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		  System.out.println("Changes in repository by Developer 2"); 
+=======
+		  System.out.println("Merge conflicts"); 
+>>>>>>> Dev1
 		System.out.println("while loop: ");
 		int i = 0;
 		while(i<5) {
@@ -22,7 +26,7 @@ public class Loops {
 		
 		System.out.println("for loop: ");
 		for ( int i3 = 0; i3<10; i3++)
-		{ System.out.println(i3);
+		  System.out.println(i3);
 		}
 //		for(;;)  //Infinite for loop
 //		{ 
